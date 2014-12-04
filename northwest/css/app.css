@@ -16915,6 +16915,9 @@ a.page-link {
   color: #4f4f4f;
   background: #e4e4e4; }
 
+.top-bar ul > li.has-dropdown a::after {
+  border-color: #4f4f4f transparent transparent transparent; }
+
 /*MEDIA QUERIES*/
 @media only screen and (max-width: 40em) {
   .body-home {
